@@ -1,4 +1,4 @@
-# yolov8-silva
+# yolov8-objection-detection
 
 Lightweight example using YOLOv8 (Ultralytics) and OpenCV for realtime object detection on video. This repository contains a small demo script `yolov8_n_opencv.py` that runs a YOLOv8n model on a video stream and displays detections with class names and colored bounding boxes.
 
